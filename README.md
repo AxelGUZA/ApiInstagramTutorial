@@ -39,6 +39,11 @@ Après l'avoir créer vous tomber sur cette image :
 
 ou vous avez l'onglet manage pour avoir plus d'information comme votre ID client et ID secret qui vont vous servir pour avoir le token.
 
+Biensure avant n'oublier pas de décocher la case "Disable Implicit OAuth:":
+![INSTAGRAM A FAIRE ABSOLUMENT](https://user-images.githubusercontent.com/38752522/56948234-d7a6fe00-6b72-11e9-827c-997bc9a63f0a.PNG)
+
+
+
 ## Parti III Avoir le token
  Maintenant cela est très simple il faut vous rendre ["ici"](https://www.instagram.com/developer/authentication/).
  Et scroller vers le bas et trouver le lien : 
